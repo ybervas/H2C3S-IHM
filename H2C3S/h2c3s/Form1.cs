@@ -14,6 +14,7 @@ namespace h2c3s
     {
         public Form1()
         {
+            int test;
             InitializeComponent();
         }
     }

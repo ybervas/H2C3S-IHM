@@ -1,0 +1,9 @@
+/Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/bin/Debug/h2c3s.exe.config
+/Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/bin/Debug/h2c3s.exe
+/Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/bin/Debug/h2c3s.pdb
+/Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/obj/Debug/h2c3s.csprojAssemblyReference.cache
+/Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/obj/Debug/h2c3s.Properties.Resources.resources
+/Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/obj/Debug/h2c3s.csproj.GenerateResource.cache
+/Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/obj/Debug/h2c3s.csproj.CoreCompileInputs.cache
+/Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/obj/Debug/h2c3s.exe
+/Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/obj/Debug/h2c3s.pdb
