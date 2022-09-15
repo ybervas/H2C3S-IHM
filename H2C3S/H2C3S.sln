@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2C3S", "\iut.bx\Etudiants\Home\phgarnier\Documents\h2c3s-ihm\H2C3S\H2C3S.csproj", "{737DF3A1-31AE-421F-AC0C-12A72C510829}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "h2c3s", "h2c3s\h2c3s.csproj", "{D54032FE-3678-45EB-AF78-F903C85D96A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{737DF3A1-31AE-421F-AC0C-12A72C510829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{737DF3A1-31AE-421F-AC0C-12A72C510829}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{737DF3A1-31AE-421F-AC0C-12A72C510829}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{737DF3A1-31AE-421F-AC0C-12A72C510829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54032FE-3678-45EB-AF78-F903C85D96A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54032FE-3678-45EB-AF78-F903C85D96A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54032FE-3678-45EB-AF78-F903C85D96A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54032FE-3678-45EB-AF78-F903C85D96A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B512B754-C640-4D2F-AE50-62014F5C3609}
+		SolutionGuid = {202706AE-8015-4A5E-A4FE-38345D388E41}
 	EndGlobalSection
 EndGlobal
