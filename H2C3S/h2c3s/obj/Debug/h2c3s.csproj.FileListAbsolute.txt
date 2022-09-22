@@ -7,3 +7,13 @@
 /Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/obj/Debug/h2c3s.csproj.CoreCompileInputs.cache
 /Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/obj/Debug/h2c3s.exe
 /Users/pluviaux/Documents/IUT/Rider/H2C3S-IHM/H2C3S/h2c3s/obj/Debug/h2c3s.pdb
+\\iut.bx\Etudiants\Home\yelmesaoudim\Documents\H2C3S-IHM\H2C3S\h2c3s\bin\Debug\h2c3s.exe.config
+\\iut.bx\Etudiants\Home\yelmesaoudim\Documents\H2C3S-IHM\H2C3S\h2c3s\bin\Debug\h2c3s.exe
+\\iut.bx\Etudiants\Home\yelmesaoudim\Documents\H2C3S-IHM\H2C3S\h2c3s\bin\Debug\h2c3s.pdb
+\\iut.bx\Etudiants\Home\yelmesaoudim\Documents\H2C3S-IHM\H2C3S\h2c3s\obj\Debug\h2c3s.csproj.AssemblyReference.cache
+\\iut.bx\Etudiants\Home\yelmesaoudim\Documents\H2C3S-IHM\H2C3S\h2c3s\obj\Debug\h2c3s.csproj.SuggestedBindingRedirects.cache
+\\iut.bx\Etudiants\Home\yelmesaoudim\Documents\H2C3S-IHM\H2C3S\h2c3s\obj\Debug\h2c3s.Properties.Resources.resources
+\\iut.bx\Etudiants\Home\yelmesaoudim\Documents\H2C3S-IHM\H2C3S\h2c3s\obj\Debug\h2c3s.csproj.GenerateResource.cache
+\\iut.bx\Etudiants\Home\yelmesaoudim\Documents\H2C3S-IHM\H2C3S\h2c3s\obj\Debug\h2c3s.csproj.CoreCompileInputs.cache
+\\iut.bx\Etudiants\Home\yelmesaoudim\Documents\H2C3S-IHM\H2C3S\h2c3s\obj\Debug\h2c3s.exe
+\\iut.bx\Etudiants\Home\yelmesaoudim\Documents\H2C3S-IHM\H2C3S\h2c3s\obj\Debug\h2c3s.pdb
